@@ -1,4 +1,7 @@
 <!-- GitHub Profile README for chachohee -->
+![Cute Cat](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=F70000&width=435&lines=Hi!+I'm+Chyo+%F0%9F%91%8B)
+
 
 <div align="center">
 
