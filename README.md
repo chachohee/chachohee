@@ -27,8 +27,4 @@
 
 <div align="center">
 
-### Trophy
-
-<img src="https://github-profile-trophy.vercel.app/?username=chachohee&theme=tokyonight&column=6" />
-
 </div>
