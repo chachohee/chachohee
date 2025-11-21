@@ -18,8 +18,8 @@
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chachohee&theme=tokyonight" height="180" />
 
 <!-- PR, Issues 등 종합 점수 카드 -->
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=chachohee&theme=tokyonight" height="180" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chachohee&theme=tokyonight" height="180" />
+<!-- <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=chachohee&theme=tokyonight" height="180" /> -->
+<!-- <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chachohee&theme=tokyonight" height="180" /> -->
 
 </div>
 
