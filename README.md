@@ -1,16 +1,34 @@
-## Hi there 👋
+<!-- GitHub Profile README for chachohee -->
 
-<!--
-**chachohee/chachohee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+# Chachohee's GitHub Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+<div align="center">
+
+<!-- 종합 활동 카드 -->
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chachohee&theme=tokyonight" width="100%" />
+
+<!-- 좌: 기본 Stats / 우: 언어 비율 -->
+<img src="https://github-readme-stats.vercel.app/api?username=chachohee&show_icons=true&theme=tokyonight" height="180" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chachohee&theme=tokyonight" height="180" />
+
+<!-- PR, Issues 등 종합 점수 카드 -->
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=chachohee&theme=tokyonight" height="180" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chachohee&theme=tokyonight" height="180" />
+
+</div>
+
+---
+
+<div align="center">
+
+### Trophy
+
+<img src="https://github-profile-trophy.vercel.app/?username=chachohee&theme=tokyonight&column=6" />
+
+</div>
