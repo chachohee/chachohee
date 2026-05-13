@@ -8,10 +8,6 @@
   </a>
 </p>
 
-<p align="center">🎀 Love clean abstractions & readable code</p>
-
-<p align="center">💕 Learning new tech · Debugging · A cup of tea</p>
-
 <p align="center">
   <img src="https://img.shields.io/badge/Java-FFB7C5?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-A4C2F4?style=for-the-badge&logo=typescript&logoColor=white" />
