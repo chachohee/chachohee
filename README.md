@@ -48,11 +48,3 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-
-<br>
-
-<div align="center">
-
-<sub>⚡ 속도는 AI에게, 검증은 나에게 — Claude Code와 함께 일합니다</sub>
-
-</div>
