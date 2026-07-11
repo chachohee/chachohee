@@ -4,20 +4,12 @@
 
 **Backend Engineer**
 
-기존 코드를 분석하고, 구조와 설계를 함께 고민합니다.<br>
+가상자산 거래 서비스의 백엔드를 개발·운영합니다.<br>
 장애 상황에서도 안전하게 동작하고, 실패에서 스스로 복구하는 시스템을 지향합니다.
 
 <a href="mailto:cxoxee@gmail.com"><img src="https://img.shields.io/badge/cxoxee@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="email"/></a>
 
 </div>
-
-<br>
-
-## About
-
-- 가상자산 거래 서비스의 백엔드를 개발·운영하고 있습니다
-- Java 17 · Spring Boot 4 전면 마이그레이션, CI/CD 구축, ISMS 심사 대응을 실무에서 경험했습니다
-- MSA · Kafka · Saga 기반 분산 시스템을 설계하며, 배포 롤백 · 보상 트랜잭션 · 멱등성 복구처럼 **실패를 전제로 한 설계**를 중요하게 생각합니다
 
 <br>
 
@@ -56,16 +48,6 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-
-<br>
-
-## Projects
-
-| | |
-|---|---|
-| **[Rush Deal](https://github.com/chachohee/rush-deal)** | 실시간 타임딜 이커머스 플랫폼 (MSA) — Saga Orchestration · Outbox Pattern · 비관적 락 기반 재고 정합성. 동시 1,000명 주문 부하 테스트에서 초과 판매 0건 검증 |
-| **[Cupeed](https://github.com/np-five/Cupeed)** | 물류 관리 및 배송 시스템 (MSA) — Eureka · FeignClient 기반 서비스 간 통신, PostgreSQL 트라이그램 검색 |
-| **[Ding Dong](https://github.com/dding-dong/dingdong)** | 배달 음식 주문 플랫폼 — QueryDSL 동적 검색 · 카테고리 ERD 설계 · Gemini API 메뉴 설명 자동 생성 |
 
 <br>
 
