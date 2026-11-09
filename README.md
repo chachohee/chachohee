@@ -4,9 +4,7 @@
 
 **Backend Engineer**
 
-가상자산 수탁·거래 서비스의 백엔드를 개발·운영합니다.<br>
-VASP 갱신을 위한 ISMS 인증·사후심사에 대응하고, KYC·AML 등 규제 요구사항을 코드로 구현합니다.<br>
-Claude Code를 AWS·Git에 연결해 개발부터 운영까지 빠르게, 검증은 직접 합니다.
+Consistency · Resilience · Migration · AI-Native
 
 <a href="mailto:cxoxee@gmail.com"><img src="https://img.shields.io/badge/cxoxee@gmail.com-181717?style=flat-square&logo=gmail&logoColor=white" alt="email"/></a>
 
