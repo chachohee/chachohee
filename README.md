@@ -48,10 +48,3 @@ Consistency · Resilience · Migration · AI-Native
 **AI**
 
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-181717?style=flat-square&logo=claude&logoColor=white)
-
-<br>
-
-## Project
-
-**[Rush Deal](https://github.com/chachohee/rush-deal)** — 실시간 타임딜 이커머스 플랫폼 (MSA)<br>
-Saga · Outbox · 비관적 락으로 동시 1,000명 주문 처리 시 오류 0건, 재고 · 포인트 정합성 100%
