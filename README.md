@@ -48,3 +48,4 @@ Consistency · Resilience · Migration · AI-Native
 **AI**
 
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-181717?style=flat-square&logo=claude&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-181717?style=flat-square&logo=cursor&logoColor=white)
