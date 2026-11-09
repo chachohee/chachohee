@@ -1,12 +1,8 @@
 <div align="center">
 
-# 차초희 · Cha Chohee
-
-**Backend Engineer**
+# Backend Engineer
 
 Consistency · Resilience · Migration · AI-Native
-
-<a href="mailto:cxoxee@gmail.com"><img src="https://img.shields.io/badge/cxoxee@gmail.com-181717?style=flat-square&logo=gmail&logoColor=white" alt="email"/></a>
 
 </div>
 
